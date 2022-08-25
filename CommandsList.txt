@@ -1,0 +1,53 @@
+dos  (disk operating system)
+
+command - description
+date - to update the deta on the computer
+time- to update the time on the computer
+dir - get the list of current directory files (shows all the files that currently in the libary)
+cls - clear screen
+cd.. - gos one step back from the current directory you are in
+cd name - get inside the name of directory/libary
+cd\ - get out from all libraries
+cd\NameOfLibary\NameOfLibary2 - will lead you to NameOfLibary2 libary
+md name- create a new directory/libary
+tree - shows you in a graphic way the hierarchy of your libraries
+commandName /?   OR   help commandName - shows you all the options you can do with this command
+dir /O - list ny files in stored order (can be by parameters such as-  /O:N )
+dir /P - pause for when the screen is full
+help rmdir - shows you the options of deleting
+rmdir /S - removes all directories and files
+dir > b.txt - create a new file named "b" in "txt" type
+copy fileName.type c:\NameOfLibary\NameOfLibary2 - pastes the copied fyle inside NameOfLibary2
+del  fileName.type - deletes  fileName.type
+move  fileName.type c:\NameOfLibary\NameOfLibary2- paste the cutrd fyle inside NameOfLibary2
+type fileName.txt - shows whats inside the txt file
+attribe fileName.txt - read only || hidden
+attrib +R fileName.txt - changes the file to "read only"
+ attrib -R fileName.txt - changes the file to "NOT read only"
+attrib +H fileName.txt - the file is visibale
+attrib -H fileName.txt - the file is NOT visibale
+dir /AH -shows the hidden files (AH) atrribute hidden
+dir *.txt - gives all the files that ends with .txt
+dir 9*1.txt - all the files from type txt that starts with 9 and ends with 1
+dir 87*.* -  all the files from ALL TYPES that starts with 87
+dir 8?7*.* -  all the files from ALL TYPES that looks like that 8somenumber7 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
